@@ -1,5 +1,5 @@
 # vue-demo
-
+主要依赖：cli3
 ## Project setup
 ```
 npm install
